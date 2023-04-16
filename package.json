@@ -4,6 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "build": "npm start",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
